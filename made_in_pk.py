@@ -49,4 +49,4 @@ with open('made_in_PK_products.csv', mode='w', newline='') as file:
         products = scrape_products(href)
         writer.writerow([url+href ,href.replace('/', ''), products])
 
-print("Data saved to products.csv")
+print("Data saved to made_in_PK_products.csv")
