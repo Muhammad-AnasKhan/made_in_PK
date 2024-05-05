@@ -2,7 +2,7 @@
 
 ## Description
 
-The script utilizes Python along with the BeautifulSoup library to scrape product information from specified website URLs. It then extracts the alternative product names available on each webpage and saves them into a CSV file.
+The script utilizes Python along with the BeautifulSoup library to scrape product information from [https://madeinpakistan.guide](https://madeinpakistan.guide). It then extracts the alternative product names available on each webpage and saves them into a CSV file.
 
 ## Usage
 
